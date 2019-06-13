@@ -1,0 +1,13 @@
+{
+ "background": {"scripts": ["background.js"]},
+ "name": "Sonatype TLA",
+ "description": "Expands Acronyms",
+ "permissions": [
+     "contextMenus",
+     "tabs",
+     "http://*/*",
+     "https://*/*"
+ ],
+ "version": "0.1",
+ "manifest_version": 2
+}
